@@ -21,8 +21,8 @@ export const currentData = {
                     url: "get_refund_options_v2",
                   },
                   {
-                    value: "Wrong tape has been used (eg Non-zomato tape)",
-                    text: "Wrong tape has been used (eg Non-zomato tape)",
+                    value: "Wrong tape has been used (eg tape)",
+                    text: "Wrong tape has been used (eg tape)",
                     color: "#1C1C1C",
                     url: "get_refund_options_v2",
                   },
